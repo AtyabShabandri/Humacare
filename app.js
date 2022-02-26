@@ -68,42 +68,45 @@ app.post("/form", function(req, res) {
     smoker = req.body.smokeInput;
     bmi = req.body.bmiInput;
 
-    // const data = {
-    //     "age": age, 
-    //     "sex": gender, 
-    //     "bmi": bmi,
-    //     "children": children,
-    //     "smoker": smoker  
-    // }
+    const data = {
+        "age": age, 
+        "sex": gender, 
+        "bmi": bmi,
+        "children": children,
+        "smoker": smoker  
+    }
 
-    // const jsonData = JSON.stringify(data);
+    const jsonData = JSON.stringify(data);
 
-    // const URL = "https://hackverse3.herokuapp.com/predict/";
-    // const options = {
-    //     method: "POST"
-    // }
+    const url = "https://hackverse3.herokuapp.com/predict/";
+    const options = {
+        method: "POST"
+    }
 
 
 
-    // const request = https.request(url, options, function(response) {
-    //     if(response.statusCode === 200){
-    //         res.redirect("/estimate");
-    //     } else {
-    //         res.send(response.statusCode);
-    //         console.log(statusCode);
-    //     }
-    // });
+    const request = https.request(url, options, function(response) {
+        if(response.statusCode === 200){
+            res.redirect("/estimate");
+        } else {
+            res.send(response.statusCode);
+            console.log(statusCode);
+        }
 
-    
+        response.on("data", function(data){
+            console.log((JSON.parse(data)));
+        })
+
+        request.write(jsonData);
+        request.end();
+    });
     console.log(age, gender, children, smoker, bmi);
 
+    const estimate = https.get(url, function(response){
+        console.log(response.statusCode);
+    })
 
-
-
-
-
-
-
+    console.log(estimate);
 
 
 });
