@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form</title>
+</head>
+<body>
+    <form action="/form" method="post">
+        <label>Age</label>
+        <input type="number" min="1" name="ageInput" autocomplete="off" autofocus>
+
+
+        <fieldset>
+            <label for="genderInput">Gender</label>
+            Male: <input type="radio" value="0"  name="genderInput" id="">
+            Female: <input type="radio" value="1" name="genderInput" id="">
+        </fieldset>
+
+
+        <label>Body Mass Input</label>
+        <input type="text" name="bmiInput" autocomplete="off">
+        <!-- <input type="number" name="" min="0" step="0.1" id=""> -->
+        <a href="/bmiCalc">Don't know your BMI?</a>
+
+
+        <label>Number Of Children</label>
+        <input type="text" name="nocInput" autocomplete="off">
+
+
+        <label>Do you smoke?</label>
+        <!-- <input type="text" name="smokeInput" autocomplete="off"> -->
+        Yes :<input type="radio" value="1 "name="smokeInput" id="">
+        No  :<input type="radio" value="0" name="smokeInput" id="">
+        <button type="submit">submit</button>
+    </form>
+</body>
+</html>
