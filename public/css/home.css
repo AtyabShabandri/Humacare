@@ -9,7 +9,11 @@
 body{
     
     height: 100vh;
+<<<<<<< HEAD
     background:   linear-gradient(rgb(0,0,0,0.5),rgba(58, 56, 56, 0.8)) ,url("../pics/home-bg.jpg")  no-repeat;
+=======
+    background:   url("../pics/home-bg2.png")  no-repeat;
+>>>>>>> e50d287 (Modified Files)
     background-size: cover;
     color: white;
     font-family: 'Notable', sans-serif;
@@ -36,7 +40,11 @@ div{
 }
 
 h1{
+<<<<<<< HEAD
     color: #d2afff;
+=======
+    color: #8150c2;
+>>>>>>> e50d287 (Modified Files)
     font-size: 7.5rem;
     font-family: 'Notable', sans-serif;
 }
@@ -54,17 +62,29 @@ h3{
 
 
 button{
+<<<<<<< HEAD
     padding: 1rem;
     text-decoration: none;
     
+=======
+    text-decoration: none;
+    transition: all 0.25s ease-out;
+>>>>>>> e50d287 (Modified Files)
     border-radius: 0.5rem;
     border: 1px solid white;
     text-transform: none;
     background-color: white;
     opacity: 0.75;
     color: white;
+<<<<<<< HEAD
 }
 a{
+=======
+    padding: 1rem 1rem 1rem 1rem;
+}
+a{
+    /* padding: 1rem; */
+>>>>>>> e50d287 (Modified Files)
     text-decoration: none;
     color: black;
     
@@ -73,12 +93,25 @@ a{
 
 }
 
+<<<<<<< HEAD
 
 button:hover{
     transform: scale(1.25);
     opacity: 1;
     transition: all 0.15s ease-out;
     background-color: #d2afff;
+=======
+/* a:hover{
+    color: white;
+} */
+
+button:hover{
+    color: white;
+    transform: scale(1.25);
+    /* opacity: 1; */
+    transition: all 0.15s ease-out;
+    background-color: #a369f0;
+>>>>>>> e50d287 (Modified Files)
     cursor: pointer;
 }
 

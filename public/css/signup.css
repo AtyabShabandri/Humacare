@@ -19,6 +19,7 @@
     box-shadow: 5px 5px 2px #5C5696;
 }
 
+<<<<<<< HEAD
 #logo{
     position: relative;
     top: 7.5rem;
@@ -27,4 +28,10 @@
     font-family: 'Prompt', sans-serif;
     /* right: 0rem; */
     left: 12rem;
+=======
+#new-reg{
+	margin-top: 3rem;
+	color: white;
+
+>>>>>>> e50d287 (Modified Files)
 }
