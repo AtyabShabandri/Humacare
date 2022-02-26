@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form</title>
+    <link rel="stylesheet" href="/css/form.css">
+</head>
+<body>
+   <div class="container">
+       <div class="left-img">
+           <h1>Required Information</h1>
+       </div>
+       <div id="form">
+           <form action="" method="post" >
+                <input type="text" placeholder="Name" >
+                <input type="number" name="ageInput"  min="1" id="" placeholder="age">
+                <!-- Gender
+                Male: <input type="radio" name="Gender" value="0" id="">
+                Female: <input type="radio" name="Gender" value="1" id=""> -->
+                <label for="Gender">Gender</label>
+                <select name="genderInput"  id="Gender">
+                    <option value="">select</option>
+                    <option value="0">Male</option>
+                    <option value="1">Female</option>
+                </select>
+                <!-- bmi -->
+                <input type="text" name="bmiInput" id="" placeholder="BMI">
+                Don't Know your BMI? <a href="">Check Here</a>
+
+                <input type="number" name="nocInput" placeholder="Number of Children" min="0" id="">
+                <label for="smoker">smoker</label>
+                <select name="smokeInput" id="smoker">
+                    <option value="">select</option>
+                    <option value="0">No</option>
+                    <option value="1">Yes</option>
+                </select>
+
+                <!-- <input type="submit" value="submit"> -->
+                <button type="submit">Calculate</button>
+           </form>
+       </div>
+   </div>
+</body>
+</html>
+
+
+<!-- <form action="/form" method="post">
+    <label>Age</label>
+    <input type="number" min="1" name="ageInput" autocomplete="off" autofocus>
+
+
+    <fieldset>
+        <label for="genderInput">Gender</label>
+        Male: <input type="radio" value="0"  name="genderInput" id="">
+        Female: <input type="radio" value="1" name="genderInput" id="">
+    </fieldset>
+
+
+    <label>Body Mass Input</label>
+    
+    
+    <input type="text" name="bmiInput" autocomplete="off">
+    <a href="/bmiCalc">Don't know your BMI?</a>
+
+
+    <label>Number Of Children</label>
+    <input type="text" name="nocInput" autocomplete="off">
+
+
+    <label>Do you smoke?</label>
+    Yes :<input type="radio" value="1 "name="smokeInput" id="">
+    No  :<input type="radio" value="0" name="smokeInput" id="">
+    <button type="submit">submit</button>
+</form> -->
