@@ -1,4 +1,3 @@
-# Hackverse-3.0
 
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown.png?raw=true)
 
