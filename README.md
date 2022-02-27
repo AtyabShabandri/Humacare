@@ -7,9 +7,9 @@ A web application that lets you find Hospitals, specialists and surgeons for any
 Website Link : 
 
 ## Team Memebers
-Atyab Shabandri
-Harashnabin Roy
-Srinaath Narasimhan
+### Atyab Shabandri
+### Harashnabin Roy
+### Srinaath Narasimhan
 
 ## Programing Languages Used
 Python, CSS, JS
