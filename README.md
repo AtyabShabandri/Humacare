@@ -23,7 +23,7 @@ pandas, numpy, sklearn, pickle , uvicorn, uvloop, httptools, pylint, fastapi, gu
 ## Frameworks Used
 FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 
-##Getting Started
+## Getting Started
 
 <ul>
   <li>cd over to the project folder</li>
