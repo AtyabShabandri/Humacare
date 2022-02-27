@@ -9,23 +9,11 @@ Python
 
 ## Libraries Used
 
-# pandas
-# numpy
-# sklearn
-# pickle 
-# uvicorn
-# uvloop
-# httptools
-# pylint
-# fastapi
-# gunicorn
-# pydantic
+pandas, numpy, sklearn, pickle , uvicorn, uvloop, httptools, pylint, fastapi, gunicorn, pydantic
 
 
 ## Frameworks Used
-# FastAPI
-# Heroku
-# DigitalOcean
+FastAPI, Heroku, DigitalOcean
 
 ## UI Screenshots
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(1).png?raw=true)
