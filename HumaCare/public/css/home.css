@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@900&family=Notable&family=Prompt:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    height: 100vh;
+    background:   url("../pics/home-bg2.png")  no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Notable', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* filter: blur(8px); */
+    font-family: 'Prompt', sans-serif;
+}
+
+div{
+    position: absolute;
+    /* height: 100vh; */
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* filter: blur(8px); */
+    /* background-color: white; */
+    opacity: 0.1;
+    z-index: 0;
+}
+
+h1{
+    color: #8150c2;
+    font-size: 7.5rem;
+    font-family: 'Notable', sans-serif;
+}
+
+h3{
+    /* font-family: 'Darker Grotesque', sans-serif; */
+    
+    font-size: x-large;
+    color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+    /* text-transform:uppercase; */
+}
+
+
+
+button{
+    text-decoration: none;
+    transition: all 0.25s ease-out;
+    border-radius: 0.5rem;
+    border: 1px solid white;
+    text-transform: none;
+    background-color: white;
+    opacity: 0.75;
+    color: white;
+    padding: 1rem 1rem 1rem 1rem;
+}
+a{
+    /* padding: 1rem; */
+    text-decoration: none;
+    color: black;
+    
+    padding: 1rem;
+    /* margin: 1rem; */
+
+}
+
+/* a:hover{
+    color: white;
+} */
+
+button:hover{
+    color: white;
+    transform: scale(1.25);
+    /* opacity: 1; */
+    transition: all 0.15s ease-out;
+    background-color: #a369f0;
+    cursor: pointer;
+}
+
