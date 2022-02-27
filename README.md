@@ -19,10 +19,16 @@ pandas, numpy, sklearn, pickle , uvicorn, uvloop, httptools, pylint, fastapi, gu
 FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 
 ## UI Screenshots
+
+# Home Screen 
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(1).png?raw=true)
+# Login
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(2).png)
+# Sign up
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(3).png)
+# Form 
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(4).png?raw=true)
+#BMI Calculator
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(5).png?raw=true)
 
 
