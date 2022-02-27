@@ -20,15 +20,15 @@ FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 
 ## UI Screenshots
 
-# Home Screen 
+### Home Screen 
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(1).png?raw=true)
-# Login
+### Login
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(2).png)
-# Sign up
+### Sign up
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(3).png)
-# Form 
+### Form 
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(4).png?raw=true)
-#BMI Calculator
+### BMI Calculator
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(5).png?raw=true)
 
 
