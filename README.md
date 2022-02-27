@@ -23,6 +23,15 @@ pandas, numpy, sklearn, pickle , uvicorn, uvloop, httptools, pylint, fastapi, gu
 ## Frameworks Used
 FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 
+##Getting Started
+
+<ul>
+  <li>cd over to the project folder</li>
+  <li>run <b>npm install</b></li>
+  <li>run <b>node app.js</b> to start off the project in localhost:3000</li>
+</ul>
+<hr>
+
 ## UI Screenshots
 
 ### Home Screen 
