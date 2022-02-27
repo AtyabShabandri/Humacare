@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@900&family=Notable&family=Prompt:wght@600&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 4rem;
+    float: left;
+    width: 50%;position: relative;
+    top: 5rem;
+    font-family: 'Notable', sans-serif;
+}
+
+
+
+body{
+    
+    height: 100%;
+    background: url("../pics/form-bg1.png") no-repeat ;
+    background-size: cover;
+    color: white;
+    font-family: "Prompt",sans-serif;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+
+.container{
+    /* background-color: rebeccapurple; */
+    margin: 2rem 5rem;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2.5rem;
+    backdrop-filter: blur(16px);
+}
+input,select{
+    margin: 0.5rem 0;
+    width: 100%;
+    color: white;
+    /* padding: 0.5rem 1rem; */
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid white;
+    
+}
+input{
+
+    padding: 0.5rem 1rem;
+}
+select{
+    padding: 0.5rem 0.75rem;
+}
+
+input:hover,select:hover{
+    border-bottom: 2px solid #6A679E;
+    transition: all .5s ease-in-out;
+}
+
+h3{
+    position: absolute;
+    top: 21rem;
+    left: 5rem;
+}
+
+::placeholder{
+    color: white;
+}
+
+
+#left-img{
+    background-color: white;
+}
+form p{
+    margin: 1rem 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    margin-top:1rem ;
+    margin-left: 0.5rem;
+    font-size: 0.75rem;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
+    transition: all 0.25s ease-in-out;
+}
+
+button{
+    margin: 1rem 1rem;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    border-radius: 1.5rem;
+    font-family: "Prompt",sans-serif;
+    font-size: large;
+    transition: all 0.25s ease-in-out;
+}
+
+option{
+    background: #252525;
+}
+
+a:hover,button:hover{
+    transition: all 0.25s ease-in-out;
+    box-shadow: 5px 5px 3px #6A679E;
+}
