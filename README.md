@@ -4,9 +4,10 @@
 
 A web application that lets you find Hospitals, specialists and surgeons for any sort of medical procedures according to your required and current health insurance plan 
 
-Website Link : 
+## Team Name:
+### Stuck Between Pixels
 
-## Team Memebers
+## Team Members
 ### Atyab Shabandri
 ### Harashnabin Roy
 ### Srinaath Narasimhan
