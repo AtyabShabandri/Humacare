@@ -12,7 +12,10 @@ A web application that lets you find Hospitals, specialists and surgeons for any
 
 ## UI Screenshots
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(1).png?raw=true)
-
+![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(2).png)
+![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(3).png)
+![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(4).png?raw=true)
+![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(5).png?raw=true)
 
 
 
