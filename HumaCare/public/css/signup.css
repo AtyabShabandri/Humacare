@@ -20,7 +20,9 @@
 }
 
 #new-reg{
-	margin-top: 3rem;
+	/* margin-top: 3rem; */
 	color: white;
+	position: relative;
+	top: -10rem;
 
 }

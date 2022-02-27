@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url("/public/pics/form-bg1.png");
+    background: url("/pics/form-bg1.png");
     display: flex;
     flex-direction: column;
     justify-content: center;

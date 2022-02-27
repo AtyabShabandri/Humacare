@@ -30,7 +30,7 @@ app.post("/login", function(req, res) {
     console.log("New Password: " + req.body.PasswordInput);
     console.log("Final unserNames: " + userNames);
     if(userNames.includes(req.body.newUserName)){
-        res.redirect("/");
+        res.redirect("/hospitals");
     } else {
         userNames.push(req.body.newUserName);
         res.redirect("/signUp");
@@ -56,7 +56,6 @@ app.post("/signUp", function(req, res) {
 });
 
 
-
 // ===========FORM ROUTE===============
 
 let estimate;
@@ -72,7 +71,6 @@ app.post("/form", function(req, res) {
     let insured = req.body.insured;
     let smoker = req.body.smokeInput;
     let bmi_ = req.body.bmiInput;
-
 
 
     if(insured) {
@@ -108,11 +106,6 @@ app.post("/form", function(req, res) {
 
     }
 });
-
-
-
-
-
 
 // ===========BMI CALC ROUTE===============
 
@@ -304,6 +297,9 @@ app.post("/info", function(req, res){
 
 
 app.get("/hospitals", function(req, res){
+    const {query} = req.query;
+
+
     let arr = []
     let idx = location.indexOf(city);
     let arr_in;
@@ -321,7 +317,8 @@ app.get("/hospitals", function(req, res){
         maps:maps,
         phoneNumbers:phoneNumbers,
         docName:docName,
-        hospitalNames:hospitalNames
+        hospitalNames:hospitalNames,
+        estimate:query
     });
 })
 

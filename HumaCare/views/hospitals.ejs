@@ -12,6 +12,9 @@
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"></script>
     <link rel="stylesheet" href="/public/css/hospitals.css">
+    <style>
+        
+    </style>
 
 </head>
 
@@ -19,14 +22,19 @@
     <div class="main container-fluid d-flex flex-wrap flex-row">
         <% for(let i=0; i < 5; i++){ %>
             <div class="card" style="width: 18rem;">
-                <img src="/hospital-pics/pics/h<%= arr_indices[i] %>1.jfif" class="card-img-top" alt="...">
+                <img src="/hospital-pics/pics/h<%= arr_indices[i] %>1.jfif" height="200" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">
                         <%= hospitalNames[i] %>
                     </h5>
+                    <h6>
+                        estimated charges are: <%= estimate%>
+                        
+                    </h6>
                     <p class="card-text">
                         Available Doctors : <%= docName[i] %>
                     </p>
+
                     <p>
                         Phone Number: <%= phoneNumbers[i] %>
                     </p>
