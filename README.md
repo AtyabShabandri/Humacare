@@ -44,6 +44,8 @@ FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(4).png?raw=true)
 ### BMI Calculator
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(5).png?raw=true)
-
-
+### Estimator
+![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/AAAAAA.png)
+### Hospital Searcher
+![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/AAA.png)
 
