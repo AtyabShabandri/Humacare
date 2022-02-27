@@ -5,15 +5,16 @@
 A web application that lets you find Hospitals, specialists and surgeons for any sort of medical procedures according to your required and current health insurance plan 
 
 ## Programing Languages Used
-Python
+Python, CSS, JS
 
+## Package Manager 
+NodeJS
+ 
 ## Libraries Used
-
 pandas, numpy, sklearn, pickle , uvicorn, uvloop, httptools, pylint, fastapi, gunicorn, pydantic
 
-
 ## Frameworks Used
-FastAPI, Heroku, DigitalOcean
+FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 
 ## UI Screenshots
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/unknown%20(1).png?raw=true)
