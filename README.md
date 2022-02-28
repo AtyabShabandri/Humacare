@@ -44,5 +44,81 @@ FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 
 ## Team Members
 Atyab Shabandri, Harashnabin Roy, Srinaath Narasimhan
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="55"/> 
+</div>
+  <br>
+
+    
+<div align="center"> 
+  <table>
+<tr align="center">
+ <td>
+  
+  Atyab Shabandri
+  
+<p align="center">
+</p>
+<p align="center">
+<a href = "https://github.com/AtyabShabandri"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/barunaha/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>Backend Developer and Frontend Design<strong>
+</td>
+<td>
+ 
+Harashnabin Roy
+
+<p align="center">
+</p>
+<p align="center">
+<a href = "https://github.com/HarashnabinRoy><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/cp99says/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+  <strong>Backend Developer<strong>
+</td>
+ <td>
+    
+Srinaath Narasimhan
+
+<p align="center">
+</p>
+<p align="center">
+<a href = "https://github.com/thaanirs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ram1612/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+    <strong>Frontend Developer<strong>
+</td>
+
+<td>
+  
+
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/sd2001"  height="120" alt="Swarnabha Das">
+</p>
+<p align="center">
+<a href = "https://github.com/sd2001"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/swarnabha-das-2001official/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+  <strong>ML | Backend<strong>
+</td>
+  
+  </table>
+</tr>
+</div>
+  <br>
+  
+  
+ <!-- END -->
+
 
 
