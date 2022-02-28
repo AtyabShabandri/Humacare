@@ -4,6 +4,8 @@
 
 A web application that lets you find Hospitals, specialists and surgeons for any sort of medical procedures according to your required and current health insurance plan 
 
+### Website Link: https://humacare.herokuapp.com/
+
 ## Programing Languages Used
 Python, CSS, JS
 
@@ -14,7 +16,7 @@ NodeJS
 pandas, numpy, sklearn, pickle , uvicorn, uvloop, httptools, pylint, fastapi, gunicorn, pydantic
 
 ## Frameworks Used
-FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
+FastAPI, Heroku, Bootstrap, ExpressJS, EJS
 
 ## Getting Started
 
