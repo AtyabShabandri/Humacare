@@ -42,9 +42,6 @@ FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 ### Hospital Searcher
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/AAA.png)
 
-## Team Members
-Atyab Shabandri, Harashnabin Roy, Srinaath Narasimhan
-<div align="center"> 
   <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="55"/> 
 </div>
   <br>
