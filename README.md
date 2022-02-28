@@ -96,15 +96,6 @@ Srinaath Narasimhan
     <strong>Frontend Developer<strong>
 </td>
 
-<td>
-  
-
-  
-  </table>
-</tr>
-</div>
-  <br>
-  
   
  <!-- END -->
 
