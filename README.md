@@ -61,7 +61,7 @@ Atyab Shabandri, Harashnabin Roy, Srinaath Narasimhan
 </p>
 <p align="center">
 <a href = "https://github.com/AtyabShabandri"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/barunaha/">
+<a href = "https://www.linkedin.com/in/AtyabShabandri/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -74,8 +74,8 @@ Harashnabin Roy
 <p align="center">
 </p>
 <p align="center">
-<a href = "https://github.com/HarashnabinRoy><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/cp99says/">
+<a href = "https://github.com/HarashnabinRoy"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/harashnabin-roy-8893731b9/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -89,7 +89,7 @@ Srinaath Narasimhan
 </p>
 <p align="center">
 <a href = "https://github.com/thaanirs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ram1612/">
+<a href = "https://www.linkedin.com/in/srinaath-narasimhan-837444202/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
