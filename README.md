@@ -42,7 +42,8 @@ FastAPI, Heroku, DigitalOcean, Bootstrap, ExpressJS, EJS
 ### Hospital Searcher
 ![App Screenshot](https://github.com/AtyabShabandri/Hackverse-3.0/blob/main/public/pics/AAA.png)
 
-  <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="55"/> 
+ <div align="=center">
+ <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="55"/> 
 </div>
   <br>
 
