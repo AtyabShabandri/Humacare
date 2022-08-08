@@ -144,14 +144,14 @@ app.get("/bmiCalc", function(req, res) {
 
 
 
-const hospitalNames = ["Super Speciality Block", "SGRHIndraprastha Apollo Hospitals, New Delhi", "BLK-Max Super Speciality Hospital", "Apollo Spectra Hospitals", "Park Hospital", "Moolchand Medcity","Max Super Speciality Hospital, Patparganj"
-    ,"Triton Hospital","Nova IVF Fertility | Southend Fertility & IVF Centre","Medanta Mediclinic","Green Park Family Medicine Clinic","Gleneagles Global Health City","Government Hospital of Thoracic Medicine, Chennai"
+const hospitalNames = ["Super Speciality Block", "SGRHIndraprastha Apollo Hospitals", "BLK-Max Super Speciality Hospital", "Apollo Spectra Hospitals", "Park Hospital", "Moolchand Medcity","Max Super Speciality Hospital"
+    ,"Triton Hospital","Nova IVF Fertility | Southend Fertility & IVF Centre","Medanta Mediclinic","Green Park Family Medicine Clinic","Gleneagles Global Health City","Government Hospital of Thoracic Medicine"
     ,"Appasamy Multispeciality Hospitals"
     ,"Dr Kumars Speciality Hospital"
-    ,"Lifeline Hospitals Kilpuak ,Chennai"
+    ,"Lifeline Hospitals Kilpuak "
     ,"Apollo Spectra Hospitals"
     ,"Mount Multispeciality Hospitals"
-    ,"VS Hospitals - Multi-speciality Hospital - Kilpauk, Chennai"
+    ,"VS Hospitals - Multi-speciality Hospital"
     ,"32 Dental Care | Dental Clinic in Navalur"
     ,"Apollo Medical Centre"
     ,"CAPSTONE CLINIC - Multispeciality, Vaccine and Dental Clinic"
@@ -322,6 +322,6 @@ app.get("/hospitals", function(req, res){
     });
 })
 
-app.listen(3000, function() {
+app.listen(process.env.PORT || 3000, function() {
     console.log("Server in running on port 3000.");
 });
